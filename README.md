@@ -9,9 +9,10 @@
 - [ ] Simple webapp using WebAssembly ([edu-wasm](https://github.com/anliksim/edu-wasm))
 - [x] Vue.js app using [material design components](https://material.io/develop/web/) ([edu-vue-mdc](https://github.com/anliksim/edu-vue-mdc))
 
-## Rest
+## Spring
 
 - [x] Spring boot web app ([edu-sprint-boot-web](https://github.com/anliksim/edu-spring-boot-web))
+- [x] Spring cloud stream with RabbitMQ ([edu-spring-cloud-stream](https://github.com/anliksim/edu-spring-cloud-stream))
 
 ## Testing
 
